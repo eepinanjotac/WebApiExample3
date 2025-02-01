@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXuL4PSww34=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\Blumbit\\WebApiExample3\\WebApiExample3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edison\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Edison\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
